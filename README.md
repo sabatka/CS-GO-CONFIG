@@ -1,2 +1,4 @@
 # CS-GO-CONFIG
-My csgo cfg and autoexec
+My csgo .cfg files
+
+STEAM : http://steamcommunity.com/id/sabatka
